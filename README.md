@@ -1,7 +1,7 @@
 # Proyecto 1 – Reestructuración de DB para tienda PixelForge Entertainment
 
 ## 🎮 Descripción del negocio
-PixelForge Entertainment es una tienda de videojuegos que maneja títulos físicos y digitales, consolas y accesorios. La empresa necesitaba una solución robusta para su manejo de clientes, ventas, plataformas y desarrolladoras.
+PixelForge Entertainment es una tienda FICTICIA de videojuegos que maneja títulos físicos y digitales, consolas y accesorios. La empresa necesitaba una solución robusta para su manejo de clientes, ventas, plataformas y desarrolladoras.
 
 ## 🗃️ Estructura de la Base de Datos
 La DB contiene 8 entidades: clientes, ventas, detalle_ventas, juegos, plataformas, desarrolladoras, stock, usuarios_api.
